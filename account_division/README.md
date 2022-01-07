@@ -7,5 +7,7 @@ The script is used to determine how much money a person should contribute or rec
 ## How to run
 
 ```
+git clone git@github.com:aguyanzon/python.git
+cd account_division
 python main.py
 ```
