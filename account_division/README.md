@@ -6,6 +6,6 @@ The script is used to determine how much money a person should contribute or rec
 
 ## How to run
 
-````
+```
 python main.py
 ```
