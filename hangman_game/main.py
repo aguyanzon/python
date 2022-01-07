@@ -34,7 +34,7 @@ attemps = 0
 
 
 def main():
-    with open('words_hangman.txt') as file:
+    with open('bag_of_words.txt') as file:
         words = file.read()
     
     bag_of_words = words.split(',')

@@ -1,4 +1,3 @@
-#primero colocamos los modulos
 import random
 
 #luego las funciones a utilizar
